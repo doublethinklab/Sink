@@ -34,8 +34,8 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "preview_id": "sink-8mr",
-      "id": "sink-8mr" // IMPORTANT: Change this to your KV namespace ID
+      "preview_id": "50598704a1cc42608aab66ac130a37a4",
+      "id": "50598704a1cc42608aab66ac130a37a4" // IMPORTANT: Change this to your KV namespace ID
     }
   ],
   "r2_buckets": [
